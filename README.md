@@ -1,4 +1,4 @@
-# Wiki for Creality Helper Script (K2 Edition)
+# Wiki for Creality Helper Script (K2 Series Edition)
 
 ## About
 
